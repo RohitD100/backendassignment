@@ -1,1 +1,0 @@
-export const url = "https://alive-cow-spacesuit.cyclic.app";
